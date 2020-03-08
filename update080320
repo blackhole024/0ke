@@ -4,10 +4,10 @@
 http://id1.indostreamingtv.com/live/indosiar/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/74/RCTI.png" group-title="NASIONAL",RCTI
-https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
+https://livetvhooq.akamaized.net/d182c52b34984076be9817e526e2bb5e/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1583650912~exp=9007200838391903~acl=/d182c52b34984076be9817e526e2bb5e/*/profile_0/chunklist.m3u8*~hmac=fa1d9eaec484621276c2c756844271a106534de67de97b2708c8961d15d58085&hdnts=st=1583650913~exp=1583651033~acl=/*~id=7e93426c-d325-489a-9e9b-37bbdbfac0ed~data=114.4.220.98~hmac=2af2e1eb22424e0316a8b755c4fb95011aea0061b425787cef77b0559fb03b26
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/95px-SCTV_Logo.svg.png" group-title="NASIONAL",SCTV
-http://id1.indostreamingtv.com/live/sctv/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1583655217~acl=/hls-p/ingest_204_*/*~hmac=1ad1bc8086fe5d438719d07c4f471361673b289ac574341a48acbc0c8a985401/hls-p/ingest_204_480p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/MNCTV_MNC-Group.svg/269px-MNCTV_MNC-Group.svg.png" group-title="NASIONAL",MNC
 http://id6.indostreamingtv.com/live/mnctv/index.m3u8
