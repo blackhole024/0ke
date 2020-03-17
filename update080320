@@ -1,7 +1,7 @@
 ########### NASIONAL ########### 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/309px-Indosiar_2015.svg.png" group-title="NASIONAL",Indosiar
-http://id1.indostreamingtv.com/live/indosiar/index.m3u8
+http://id1.indostreamingtv.com/live/indosiar/index.m3u8?syukriadi.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/74/RCTI.png" group-title="NASIONAL",RCTI
 https://livetvhooq.akamaized.net/d182c52b34984076be9817e526e2bb5e/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1583650912~exp=9007200838391903~acl=/d182c52b34984076be9817e526e2bb5e/*/profile_0/chunklist.m3u8*~hmac=fa1d9eaec484621276c2c756844271a106534de67de97b2708c8961d15d58085&hdnts=st=1583650913~exp=1583651033~acl=/*~id=7e93426c-d325-489a-9e9b-37bbdbfac0ed~data=114.4.220.98~hmac=2af2e1eb22424e0316a8b755c4fb95011aea0061b425787cef77b0559fb03b26
@@ -45,8 +45,8 @@ http://210.210.155.35/session/93fc6f62-f34b-11e9-b311-c81f66f89318/qwr9ew/s/s12/
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/logo-net-tv-png-4.png" group-title="NASIONAL",NET TV
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(404d689d-691f-4035-9801-ae8bfd8712e9)/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/INews.png" group-title="NASIONAL",I News
-https://live.rctiplus.id/rctiplus/inews_720p.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/INews.png" group-title="NASIONAL",INews
+https://linier.akamaized.net/live/eds/iNews_Logo/sa_hls/iNews_Logo-avc1_2000000=1-mp4a_64000=2.m3u8
 
 ########### KNOWLEDGE ########### 
 
@@ -168,6 +168,9 @@ http://interlatins.com:48000/hernan2132/Mg3yeWZuWm/1295
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTQmnvIJdnzVVFi5Rpau-q5rbInVsiT-2E2fXJyu8E3OD7A2KzQ" group-title="MOVIES",Red by HBO
 https://www.livedoomovie.com/02_RedbyHBO_720p/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="https://nkritv.com/wp-content/uploads/2019/04/k-plus-tv.jpg" group-title="MOVIES",K+
+http://210.210.155.35/session/ae30bcaa-0c95-11e9-8e7a-c81f66f89318/uq2663/h/h08/01.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTf4u9_WCTOsWG5OFfBT8M6OFxnKJKahxfQOe1Cs2kRJaNp6YfK" group-title="MOVIES",Sony Gem
 http://210.210.155.66/h/h19/01.m3u8
 
@@ -220,7 +223,7 @@ https://timesnow.airtel.tv/live/MNX_pull/chunklist_3.m3u8
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/cc/Sinema_Indonesia.png/revision/latest/scale-to-width-down/340?cb=20181017152803" group-title="MOVIES",Sinema Indonesia
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
+http://210.210.155.35/session/44f6d74a-01a1-11ea-b55a-9182955aa916/x6bnqe/s/s71/S4/mnf.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSPo3w_glSUzkkCbyqdk9lDj118RKmhZl8f4WPQjnno69qWW8Ex" group-title="MOVIES",Zee Bioskop
 https://livetvhooq.akamaized.net/ed9f674616594d96bbe00f93ab8d7672/eu-central-1/5493668622001/profile_3/chunklist.m3u8?hdnts=st=1576169705~exp=9007200830910696~acl=/ed9f674616594d96bbe00f93ab8d7672/*/profile_3/chunklist.m3u8*~hmac=c464efdac528cb4b0e4c27ada7a0480ce7bce6030e39ab45e36833b4bc9b9fbd
@@ -375,6 +378,9 @@ http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chucklist.m3u8
 http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
 
 ########### MUSIC ########### 
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-faPZEUdFnns/V3M19UQxg3I/AAAAAAAACrk/zi27Id9MW0Y/s640/%25255BUNSET%25255D.png" group-title="MUSIC",HI Indo
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(dd5267e3-7a01-4e8d-81d8-a7bb927636e9)/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/Prambors.svg/752px-Prambors.svg.png" group-title="MUSIC",Prambors
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(d38de229-8abc-4072-91d4-2c42935f7e3b)/manifest.mpd
