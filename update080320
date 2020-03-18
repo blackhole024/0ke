@@ -100,7 +100,7 @@ https://liveanevia.mncnow.id/live/eds/DisneyXD/sa_hls/DisneyXD.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="KIDS",Cartoon Network HD
 http://203.153.218.28:9981/stream/channelid/251475608?ticket=3CBFB27E68B1DFEAB62E7781784EE2C7BFA92754&profile=pass
 
-#EXTINF:-1 tvg-logo="https://www.subscriptioninsider.com/media/newspics/340/p1dptp0sod1j8e1qs11vce1p4p7hv6.jpg" group-title="KIDS",Nickelodeon Asia
+#EXTINF:-1 tvg-logo="hhttps://www.freepnglogos.com/uploads/nickelodeon-schweiz-logo-png-14.png" group-title="KIDS",Nickelodeon Asia
 http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/91
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/nickelodeon/images/2/21/Original_Nicktoons_logo.png/revision/latest/scale-to-width-down/340?cb=20190605183520" group-title="KIDS",NickToons
@@ -273,7 +273,7 @@ https://livetvhooq.akamaized.net:443/b2fec42490a14386ac53eafa47f590a7/ap-southea
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/uploads/LOGO%20berita%20satu.png?1383203151" group-title="NEWS",Berita Satu World
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/chunklist_b846000.m3u8?token=ireg.m3u8
 
-#EXTINF:-1 tvg-logo="http://static1.bigtvhd.com/uploads/bigtvhd/channel/jakarta_globe.png" group-title="NEWS",Jakarta Globe News
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/1/15/Jakarta_Globe.png" group-title="NEWS",Jakarta Globe News
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/f/fb/MNCNews_tegak.png/1200px-MNCNews_tegak.png" group-title="NEWS",MNC News
@@ -447,7 +447,7 @@ http://203.153.218.28:9981/stream/channelid/391618553?ticket=78F887BA5B832279E75
 #EXTINF:-1 tvg-logo="https://www.cabletv.com/app/uploads/HGTV-Logo-1-1.jpg" group-title="LIFESTYLE",HGTV
 https://liveanevia.mncnow.id/live/eds/HGTV/sa_hls/HGTV.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/WORLDn_Food_Network.svg/1200px-WORLDn_Food_Network.svg.png" group-title="LIFESTYLE",WORLDn Food Network
+#EXTINF:-1 tvg-logo="hhttps://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="LIFESTYLE",WORLDn Food Network
 http://203.153.218.28:9981/stream/channelid/1092664456?ticket=E20984982529618B739BCAB7412D568D65147A93&profile=pass
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lifetime_logo17.svg/225px-Lifetime_logo17.svg.png" group-title="LIFESTYLE",Lifetime
