@@ -148,10 +148,10 @@ https://dl.dropbox.com/s/b6fas6znw4nylec/Hore.m3u8?dl=0
 http://203.153.218.28:9981/stream/channelid/1316004766?ticket=8603609D96360D7B639AB97584FF09E1086B3284&profile=pass
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/HBOHits.id.png" group-title="MOVIES",HBO Hits
-http://203.153.218.28:9981/stream/channelid/2038175895?ticket=0299B4C37DF5A2B463E83E4FFD9AD1E91BA48253&profile=pass
+http://mantul.biz.id:8888/live/35Joe01/35Joe0703/124.ts
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/HBOSignature.id.png" group-title="MOVIES",HBO Signature HD
-http://203.153.218.28:9981/stream/channelid/1197019186?ticket=96AB9AD0536B1000E515E3219100C78A9625CAE3&profile=pass
+http://mantul.biz.id:8888/live/35Joe01/35Joe0703/571.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/1200px-Cinemax.svg.png" group-title="MOVIES",Cinemax HD
 http://203.153.218.28:9981/stream/channelid/255605374?ticket=8419D5E6A24EE915F246B23011407540BE9B0E50&profile=pass
@@ -163,7 +163,7 @@ http://203.153.218.28:9981/stream/channelid/756717990?ticket=D9CDD7DB18E80023C22
 http://203.153.218.28:9981/stream/channelid/1949182550?ticket=07F04FD978CF0D1626AA28A8A68A1182729AC6EE&profile=pass
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/WarnerTV.id.png" group-title="MOVIES",Warner TV
-http://interlatins.com:48000/hernan2132/Mg3yeWZuWm/1295
+http://mantul.biz.id:8888/live/35Joe01/35Joe0703/608.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTQmnvIJdnzVVFi5Rpau-q5rbInVsiT-2E2fXJyu8E3OD7A2KzQ" group-title="MOVIES",Red by HBO
 https://www.livedoomovie.com/02_RedbyHBO_720p/chunklist.m3u8
@@ -541,13 +541,13 @@ https://dl.dropbox.com/s/5e4k9czqgql8p25/TV3.m3u8?dl=0
 https://www.doofree88.com/streaming/sd-tsports_480/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Fox_Sports_Netherlands_Logo.png" group-title="SPORT",FOX Sport 1
-https://www.doofree88.com/streaming/hd-foxsports1_720/index.m3u8
+http://mantul.biz.id:8888/live/35Joe01/35Joe0703/30.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Fox_Sports_Netherlands_Logo.png" group-title="SPORT",FOX Sport 2
-https://www.doofree88.com/streaming/sd-foxsports2_480/index.m3u8
+http://mantul.biz.id:8888/live/35Joe01/35Joe0703/29.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Fox_Sports_Netherlands_Logo.png" group-title="SPORT",FOX Sport 3
-https://www.doofree88.com/streaming/sd-foxsports3_480/index.m3u8
+http://mantul.biz.id:8888/live/35Joe01/35Joe0703/28.ts
 
 #EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Sport/Champion-TV-1.png" group-title="SPORT",Champions tv 1
 https://dl.dropbox.com/s/vcda69kz7mnio6e/Champ1.m3u8?dl=0
