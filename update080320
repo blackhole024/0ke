@@ -1,7 +1,7 @@
 ########### NASIONAL ########### 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/309px-Indosiar_2015.svg.png" group-title="NASIONAL",Indosiar
-https://etslive-2-vidio-com.akamaized.net/exp=1584538441~acl=/hls-p/ingest_205_*/*~hmac=03943087b3022324fe29ddb59d5dd66dddbf13cefd4099349d89dc414beccc60/hls-p/ingest_205_720p/index.m3u8
+https://delivery.macan.live/stream/id_indosiar/index.m3u8?token=gratisan
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/74/RCTI.png" group-title="NASIONAL",RCTI
 https://livetvhooq.akamaized.net/d182c52b34984076be9817e526e2bb5e/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1583650912~exp=9007200838391903~acl=/d182c52b34984076be9817e526e2bb5e/*/profile_0/chunklist.m3u8*~hmac=fa1d9eaec484621276c2c756844271a106534de67de97b2708c8961d15d58085&hdnts=st=1583650913~exp=1583651033~acl=/*~id=7e93426c-d325-489a-9e9b-37bbdbfac0ed~data=114.4.220.98~hmac=2af2e1eb22424e0316a8b755c4fb95011aea0061b425787cef77b0559fb03b26
@@ -13,7 +13,7 @@ https://delivery.macan.live/stream/id_sctv/index.m3u8?token=gratisan
 https://livetvhooq.akamaized.net/3127bcd58c9149b298b664b1ec828285/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1536005897~exp=9007200790746888~acl=/3127bcd58c9149b298b664b1ec828285/*/profile_0/chunklist.m3u8*~hmac=99928fa4d986fe186b165d47ed653d126327c06e772b228dbf2b4387beda9502
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/1f/Antv_logo_%282017%29.svg/320px-Antv_logo_%282017%29.svg.png" group-title="NASIONAL",ANTV
-https://etslive-2-vidio-com.akamaized.net/exp=1584546125~acl=/hls-p/ingest_782_*/*~hmac=caddda5ba118f2a0e18bc10012c439830bfe99d93dca332d3311d3388df58b70/hls-p/ingest_782_720p/index.m3u8
+https://delivery.macan.live/stream/id_antv/index.m3u8?token=gratisan
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQM8j45LnOWFpCg5rZ5atJh9SNsCwBslc9-rhDsOwcnS2d_AzKl" group-title="NASIONAL",TVRI
 http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
@@ -25,7 +25,7 @@ https://livetvhooq.akamaized.net/659beb5e22754dcb90ffd25247be6627/ap-southeast-1
 https://stream-03.sg1.dailymotion.com/sec(045Msia06uu92p_oLsoybAhEUhJ6pMdXPumkge_HuTY)/dm/3/x619221/s/live-3.m3u8#cell=lsg1&qos_vpart=1&qos_stail=1&ab_betamark=2
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/320px-GTV_%282017%29.svg.png" group-title="NASIONAL",Global TV
-https://etslive-2-vidio-com.akamaized.net/exp=1584557400~acl=/hls-p/ingest_778_*/*~hmac=a2c4c4e05a02c9c360ef67ea365a097ba47f3211dfa9759f49ace8e647d74b19/hls-p/ingest_778_720p/index.m3u8
+https://livetvhooq.akamaized.net/23cf552372cb459795ca683f9cc306d8/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1536005897~exp=9007200790746888~acl=/23cf552372cb459795ca683f9cc306d8/*/profile_1/chunklist.m3u8*~hmac=41e55cd90f1806ca59b56a1c266cc150ab4d70047b87019fc7db29c07c678d42
 
 #EXTINF:-1tvg-logo="https://macan.live/img/transtv.png" group-title="NASIONAL",Trans TV
 https://etslive-2-vidio-com.akamaized.net/exp=1584557804~acl=/hls-p/ingest_733_*/*~hmac=aaa471249e0eb0d45c01567dc7b7b0034c81d39cb440825785c419fad88cc9ed/hls-p/ingest_733_720p/index.m3u8
@@ -37,7 +37,7 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 http://edge.metroTVnews.com:1935/live-edge/smil:metro.smil/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d4/Kompas_TV.svg/1280px-Kompas_TV.svg.png" group-title="NASIONAL",Kompas TV
-https://etslive-2-vidio-com.akamaized.net/exp=1584557764~acl=/hls-p/ingest_874_*/*~hmac=89feb2b43b1f2f5aaeae88a0f1b554b154e7570d7cf39c9dd6b75f75f82a8079/hls-p/ingest_874_720p/index.m3u8
+http://210.210.155.35/session/69927436-1aa3-11ea-a103-acecbc14f551/qwr9ew/s/s104/01.m3u8
  
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5a/Rajawali_Televisi.svg/1280px-Rajawali_Televisi.svg.png" group-title="NASIONAL",Rajawali TV
 http://210.210.155.35/session/93fc6f62-f34b-11e9-b311-c81f66f89318/qwr9ew/s/s12/01.m3u8
