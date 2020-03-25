@@ -22,7 +22,7 @@ http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u
 https://livetvhooq.akamaized.net/659beb5e22754dcb90ffd25247be6627/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1581398265~exp=9007200836139256~acl=/659beb5e22754dcb90ffd25247be6627/*/profile_0/chunklist.m3u8*~hmac=ba4dc3d3e1d30aed37f0d933ffde5e82f41740f75c4bb04de847bd9edde5802f&hdnts=st=1581398269~exp=1581398389~acl=/*~id=d741463f-2bf7-4ac9-9ece-0f58e57637dd~data=36.68.52.70~hmac=cfa8468626806030000750362272cf7d9247b0020a7028624b69491e84c83819
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/2/20/TvOne_logo_2012.svg/89px-TvOne_logo_2012.svg.png" group-title="NASIONAL",TV ONE
-https://stream-03.sg1.dailymotion.com/sec(045Msia06uu92p_oLsoybAhEUhJ6pMdXPumkge_HuTY)/dm/3/x619221/s/live-3.m3u8
+https://stream-01.sg1.dailymotion.com/sec(045Msia06uu92p_oLsoybKIpilycyWwoR1gLQMUMNJM)/dm/3/x619221/s/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/320px-GTV_%282017%29.svg.png" group-title="NASIONAL",Global TV
 https://livetvhooq.akamaized.net/23cf552372cb459795ca683f9cc306d8/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1536005897~exp=9007200790746888~acl=/23cf552372cb459795ca683f9cc306d8/*/profile_1/chunklist.m3u8*~hmac=41e55cd90f1806ca59b56a1c266cc150ab4d70047b87019fc7db29c07c678d42
@@ -37,10 +37,10 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 http://edge.metroTVnews.com:1935/live-edge/smil:metro.smil/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d4/Kompas_TV.svg/1280px-Kompas_TV.svg.png" group-title="NASIONAL",Kompas TV
-http://210.210.155.35/session/69927436-1aa3-11ea-a103-acecbc14f551/qwr9ew/s/s104/01.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1585164338~acl=/hls-p/ingest_874_*/*~hmac=f6990e8f2750c51325602448afe1b28f3430fd397fff4e70ef6df17ced488d88/hls-p/ingest_874_720p/index.m3u8
  
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5a/Rajawali_Televisi.svg/1280px-Rajawali_Televisi.svg.png" group-title="NASIONAL",Rajawali TV
-http://210.210.155.35/session/93fc6f62-f34b-11e9-b311-c81f66f89318/qwr9ew/s/s12/01.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1585164639~acl=/hls-p/ingest_geo_1561_*/*~hmac=99bb2a33cf5b158f469efc0a019b262ccd21da7d35e76ca70083425fae18325d/hls-p/ingest_geo_1561_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/logo-net-tv-png-4.png" group-title="NASIONAL",NET TV
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(404d689d-691f-4035-9801-ae8bfd8712e9)/manifest.mpd
