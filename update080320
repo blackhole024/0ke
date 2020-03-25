@@ -37,7 +37,7 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 http://edge.metroTVnews.com:1935/live-edge/smil:metro.smil/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d4/Kompas_TV.svg/1280px-Kompas_TV.svg.png" group-title="NASIONAL",Kompas TV
-https://etslive-2-vidio-com.akamaized.net/exp=1585164338~acl=/hls-p/ingest_874_*/*~hmac=f6990e8f2750c51325602448afe1b28f3430fd397fff4e70ef6df17ced488d88/hls-p/ingest_874_720p/index.m3u8
+https://stream-05.sg1.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4G3nTiA_tOcnbgIfK8fofl5I)/dm/3/x6pz4sa/d/live-2.m3u8
  
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5a/Rajawali_Televisi.svg/1280px-Rajawali_Televisi.svg.png" group-title="NASIONAL",Rajawali TV
 https://etslive-2-vidio-com.akamaized.net/exp=1585164639~acl=/hls-p/ingest_geo_1561_*/*~hmac=99bb2a33cf5b158f469efc0a019b262ccd21da7d35e76ca70083425fae18325d/hls-p/ingest_geo_1561_720p/index.m3u8
