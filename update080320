@@ -40,7 +40,7 @@ http://edge.metroTVnews.com:1935/live-edge/smil:metro.smil/master.m3u8
 https://stream-05.sg1.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4G3nTiA_tOcnbgIfK8fofl5I)/dm/3/x6pz4sa/d/live-2.m3u8
  
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5a/Rajawali_Televisi.svg/1280px-Rajawali_Televisi.svg.png" group-title="NASIONAL",Rajawali TV
-https://etslive-2-vidio-com.akamaized.net/exp=1585164639~acl=/hls-p/ingest_geo_1561_*/*~hmac=99bb2a33cf5b158f469efc0a019b262ccd21da7d35e76ca70083425fae18325d/hls-p/ingest_geo_1561_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1585204609~acl=/hls-p/ingest_geo_1561_*/*~hmac=e86e2794fdfe7afa534dd4b6a654a96c20592ee98b3a7f40a0a1e7752bf8f007/hls-p/ingest_geo_1561_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/logo-net-tv-png-4.png" group-title="NASIONAL",NET TV
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(404d689d-691f-4035-9801-ae8bfd8712e9)/manifest.mpd
