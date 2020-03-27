@@ -75,7 +75,7 @@ http://203.153.218.28:9981/stream/channelid/681683355?ticket=B3C34399E8376048D34
 http://203.153.218.28:9981/stream/channelid/1114683377?ticket=39736C153BA658BB8604E39D479282644E09703E&profile=pass
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQVBlxYpQ8MUz9T5qy6eU-g9-eti7JfIon2rEtLQvo8P8pi-flV" group-title="KNOWLEDGE",Nat Geo Wild
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
+http://streamku.live:8888/live/adit/adit123/488.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="KNOWLEDGE",Animal Planet
 http://streamku.live:8888/live/adit/adit123/480.ts
