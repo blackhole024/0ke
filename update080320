@@ -54,7 +54,7 @@ https://linier.akamaized.net/live/eds/iNews_Logo/sa_hls/iNews_Logo-avc1_2000000=
 http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1000px-History_Logo.svg.png" group-title="KNOWLEDGE",History Channel
-http://203.153.218.28:9981/stream/channelid/1868154562?ticket=A6B5FCF4BEA85CDC157E4CF8DAE0FE22C9FA8432&profile=pass
+http://streamku.live:8888/live/adit/adit123/484.ts
 
 #EXTINF:-1 tvg-logo="https://www.broadcastingcable.com/.image/t_share/MTU0MjAzNjUwMTgwNTIzMzc0/discovery-channeljpg.jpg" group-title="KNOWLEDGE",Discovery Channel
 http://203.153.218.28:9981/stream/channelid/1151931232?ticket=D05F5F5AB713CBADFBFABB642E4F37D5004BB751&profile=pass
@@ -62,8 +62,8 @@ http://203.153.218.28:9981/stream/channelid/1151931232?ticket=D05F5F5AB713CBADFB
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="KNOWLEDGE",BBC Earth
 https://liveanevia.mncnow.id/live/eds/BBCEarth/sa_hls/BBCEarth.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.multichannel.com/.image/t_share/MTU0MDY0ODkzNzQ5NTAzMDU4/smithsonian-channel-logojpg.jpg" group-title="KNOWLEDGE",Smithsonian
-https://dl.dropbox.com/s/w1lv3vfqkf4tlvc/Smith.m3u8?dl=0
+#EXTINF:-1 tvg-logo="https://www.multichannel.com/.image/t_share/MTU0MDY0ODkzNzQ5NTAzMDU4/smithsonian-channel-logojpg.jpg" group-title="KNOWLEDGE",Smith Sonian
+http://streamku.live:8888/live/adit/adit123/483.ts
 
 #EXTINF:-1 tvg-logo="https://prod-cdn-crimeandinvestigation-co-uk.s3.amazonaws.com/s3fs-public/logo.png?SC6.8eaHd_Cg9dpYhvLwqztGurNKGDM7" group-title="KNOWLEDGE",Crime Investigation
 http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/95
@@ -78,7 +78,7 @@ http://203.153.218.28:9981/stream/channelid/1114683377?ticket=39736C153BA658BB86
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="KNOWLEDGE",Animal Planet
-http://203.153.218.28:9981/stream/channelid/1943600623?ticket=9C3D6D1D9C2C7E17C88C34437A464C67A060160E&profile=pass
+http://streamku.live:8888/live/adit/adit123/480.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR_NQzkcFezQ43TjlpI-V91ywrmRV_-5oq7CZRwYzxukHSyRTES" group-title="KNOWLEDGE",Outdoor Channel
 https://livetvhooq.akamaized.net/4333904e5f68426cae808a645e882206/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1576672231~exp=9007200831413222~acl=/4333904e5f68426cae808a645e882206/*/profile_2/chunklist.m3u8*~hmac=d22ed12147e6fe5936f8198fcf71838cb4651880f2ac0f4fdea39fb2b8a054b7
@@ -119,7 +119,7 @@ http://95.170.215.109:80/hls/m3u8/Spacetoon-Backup.m3u8
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/Animax.id.png" group-title="KIDS",Animax
-http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/47
+http://streamku.live:8888/live/adit/adit123/564.ts
 
 #EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/b2/73/e8/b273e817-2b44-7c6d-cafd-699fb5a865c8/source/512x512bb.jpg" group-title="KIDS",Satkids
 http://unirtmp.tulix.tv:1935/sat7kids/sat7kids1/playlist.m3u8
@@ -143,6 +143,7 @@ https://liveanevia.mncnow.id/live/eds/KidsChannel/sa_hls/KidsChannel.m3u8
 https://dl.dropbox.com/s/b6fas6znw4nylec/Hore.m3u8?dl=0
 
 ########### MOVIES ########### 
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/HBO_New_Logo.png" group-title="MOVIES",HBO
 http://streamku.live:8888/live/adit/adit123/847.ts
 
@@ -163,6 +164,9 @@ http://203.153.218.28:9981/stream/channelid/756717990?ticket=D9CDD7DB18E80023C22
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/FOXFamilyMovies.id.png" group-title="MOVIES",FOX Family Movies
 http://203.153.218.28:9981/stream/channelid/1949182550?ticket=07F04FD978CF0D1626AA28A8A68A1182729AC6EE&profile=pass
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/FOXMovies.id.png" group-title="MOVIES",Fox Action Movies
+http://streamku.live:8888/live/adit/adit123/586.ts
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/WarnerTV.id.png" group-title="MOVIES",Warner TV
 http://streamku.live:8888/live/adit/adit123/593.ts
@@ -288,7 +292,7 @@ http://203.153.218.28:9981/stream/channelid/78064174?ticket=C40949788D0E2EF033DF
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="NEWS",France 24
-https://liveanevia.mncnow.id/live/eds/France24/sa_hls/France24.m3u8
+http://streamku.live:8888/live/adit/adit123/528.ts
 
 #EXTINF:-1 tvg-logo="https://blog.ourcrowd.com/wp-content/uploads/2017/03/cbn.png",CBN News
 http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
@@ -481,12 +485,26 @@ http://streamku.live:8888/live/adit/adit123/502.ts
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logogrey/grey_logo_useesports2_big.png" group-title="SPORT",Usee Sport 2
 http://streamku.live:8888/live/adit/adit123/503.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/The_new_logo_of_beIN_Sports_at_2017.png" group-title="SPORT",beIN SPORTS 1
-http://skdn.redi-vo.com/iptv/ch111?code=138137164006399&key=54576
+#EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Sport/Champion-TV-1.png" group-title="SPORT",Champions tv 1
+http://streamku.live:8888/live/adit/adit123/504.ts
 
+#EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Sport/Champion-TV-2.png" group-title="SPORT",Champions tv 2
+http://streamku.live:8888/live/adit/adit123/505.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Fox_Sports_Netherlands_Logo.png" group-title="SPORT",FOX Sport 1
+http://streamku.live:8888/live/adit/adit123/620.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Fox_Sports_Netherlands_Logo.png" group-title="SPORT",FOX Sport 2
+http://streamku.live:8888/live/adit/adit123/517.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Fox_Sports_Netherlands_Logo.png" group-title="SPORT",FOX Sport 3
+http://streamku.live:8888/live/adit/adit123/518.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/The_new_logo_of_beIN_Sports_at_2017.png" group-title="SPORT",beIN SPORTS 1
+http://streamku.live:8888/live/adit/adit123/516.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/The_new_logo_of_beIN_Sports_at_2017.png" group-title="SPORT",beIN SPORTS 2
-http://skdn.redi-vo.com/iptv/ch112?code=138137164006399&key=46098
+http://streamku.live:8888/live/adit/adit123/516.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/The_new_logo_of_beIN_Sports_at_2017.png" group-title="SPORT",beIN SPORTS 3
 http://skdn.redi-vo.com/iptv/ch113?code=103131497823984&key=39255
@@ -538,21 +556,6 @@ https://dl.dropbox.com/s/5e4k9czqgql8p25/TV3.m3u8?dl=0
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/d3/da/2a/d3da2acea1ac96354e82618d67f0ac00.png" group-title="SPORT",T Sports
 https://www.doofree88.com/streaming/sd-tsports_480/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Fox_Sports_Netherlands_Logo.png" group-title="SPORT",FOX Sport 1
-http://streamku.live:8888/live/adit/adit123/620.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Fox_Sports_Netherlands_Logo.png" group-title="SPORT",FOX Sport 2
-http://streamku.live:8888/live/adit/adit123/517.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Fox_Sports_Netherlands_Logo.png" group-title="SPORT",FOX Sport 3
-http://streamku.live:8888/live/adit/adit123/518.ts
-
-#EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Sport/Champion-TV-1.png" group-title="SPORT",Champions tv 1
-https://dl.dropbox.com/s/vcda69kz7mnio6e/Champ1.m3u8?dl=0
-
-#EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Sport/Champion-TV-2.png" group-title="SPORT",Champions tv 2
-https://dl.dropbox.com/s/znpvtme2xmrlij2/Champ2.m3u8?dl=0
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/94/07/fa/9407fa33a1873b022ed3169d51ea6aff.png" group-title="SPORT",ESPN Sport
 http://d3sjmtxha86r3t.cloudfront.net/nbc/smil:espn.smil/chunklist.m3u8
