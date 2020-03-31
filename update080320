@@ -22,7 +22,7 @@ http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u
 https://livetvhooq.akamaized.net/659beb5e22754dcb90ffd25247be6627/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1581398265~exp=9007200836139256~acl=/659beb5e22754dcb90ffd25247be6627/*/profile_0/chunklist.m3u8*~hmac=ba4dc3d3e1d30aed37f0d933ffde5e82f41740f75c4bb04de847bd9edde5802f&hdnts=st=1581398269~exp=1581398389~acl=/*~id=d741463f-2bf7-4ac9-9ece-0f58e57637dd~data=36.68.52.70~hmac=cfa8468626806030000750362272cf7d9247b0020a7028624b69491e84c83819
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/2/20/TvOne_logo_2012.svg/89px-TvOne_logo_2012.svg.png" group-title="NASIONAL",TV ONE
-http://streamku.live:8888/live/Premium/Premium2020/613.ts
+https://stream-05.sg1.dailymotion.com/sec(045Msia06uu92p_oLsoybD1QPNqXnTF4syAnvziJJ7M)/dm/3/x619221/s/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/320px-GTV_%282017%29.svg.png" group-title="NASIONAL",Global TV
 http://streamku.live:8888/live/Premium/Premium2020/606.ts
@@ -37,7 +37,7 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 http://edge.metroTVnews.com:1935/live-edge/smil:metro.smil/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d4/Kompas_TV.svg/1280px-Kompas_TV.svg.png" group-title="NASIONAL",Kompas TV
-https://r2---sn-npoe7n7r.googlevideo.com/videoplayback?expire=1585655407&ei=D9qCXofaMp39oAOQiqmoAQ&ip=89.187.162.98&id=gIB2egm7tL8.1&itag=136&aitags=133%2C134%2C135%2C136%2C160&source=yt_live_broadcast&requiressl=yes&mh=uj&mm=44%2C26&mn=sn-npoe7n7r%2Csn-i3beln7d&ms=lva%2Conr&mv=m&mvi=1&pl=27&initcwndbps=607500&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fmp4&gir=yes&mt=1585633699&fvip=2&keepalive=yes&beids=9466585&c=WEB_EMBEDDED_PLAYER&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cgir&sig=AJpPlLswRAIgPdZllA1KwpTKxhpBP1_zuV3cNlBPECmwkRlDiiV0CiICIDfbmqkrfkFf4NHp0t27LlaLIitWoZePu1ACJddfHrOU&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=ALrAebAwRQIgf23prG13qn2EDtOrN4hsz3VBebcApJXkzJKko4PGiIMCIQDdMyo_QHklqakNG1ptoNz4PrOfM_eZGOqoeebhWCBCoQ%3D%3D
+https://stream-03.sg1.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4G0GFIod8Kk3rxAppI39WQSQ)/dm/3/x6pz4sa/d/live-3.m3u8
  
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5a/Rajawali_Televisi.svg/1280px-Rajawali_Televisi.svg.png" group-title="NASIONAL",Rajawali TV
 http://streamku.live:8888/live/Premium/Premium2020/614.ts
