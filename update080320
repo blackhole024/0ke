@@ -144,7 +144,7 @@ http://streamku.live:8888/live/Premium/Premium2020/569.ts
 ########### KIDS ########### 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/1200px-Disney_Channel_logo_%282014%29.svg.png" group-title="KIDS",Disney Channel HD
-http://streamku.live:8888/live/Premium/Premium2020/571.ts
+http://203.153.218.28:9981/stream/channelid/31701170?ticket=02DB3A3E44B8E741CC4D2913B2F42F452A2C3AB9&profile=pass
 
 #EXTINF:-1 tvg-logo="https://fontmeme.com/images/Disney-Junior-Logo.jpg" group-title="KIDS",Disney Junior
 http://streamku.live:8888/live/Premium/Premium2020/570.ts
