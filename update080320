@@ -37,7 +37,7 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 http://edge.metroTVnews.com:1935/live-edge/smil:metro.smil/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d4/Kompas_TV.svg/1280px-Kompas_TV.svg.png" group-title="NASIONAL",Kompas TV
-https://stream-05.sg1.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4G3nTiA_tOcnbgIfK8fofl5I)/dm/3/x6pz4sa/d/live-2.m3u8
+http://streamku.live:8888/live/adit/adit123/615.ts
  
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5a/Rajawali_Televisi.svg/1280px-Rajawali_Televisi.svg.png" group-title="NASIONAL",Rajawali TV
 http://streamku.live:8888/live/Premium/Premium2020/614.ts
