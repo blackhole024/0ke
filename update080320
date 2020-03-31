@@ -25,7 +25,7 @@ https://livetvhooq.akamaized.net/659beb5e22754dcb90ffd25247be6627/ap-southeast-1
 http://streamku.live:8888/live/adit/adit123/613.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/320px-GTV_%282017%29.svg.png" group-title="NASIONAL",Global TV
-http://id6.indostreamingtv.com/live/tv1/27332.ts
+https://linier3.rctiplus.id/live/eds/GTV_Logo/sa_hls/GTV_Logo-avc1_2000000=1.m3u8
 
 #EXTINF:-1tvg-logo="https://macan.live/img/transtv.png" group-title="NASIONAL",Trans TV
 http://streamku.live:8888/live/Premium/Premium2020/612.ts
