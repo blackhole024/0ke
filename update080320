@@ -112,7 +112,7 @@ http://streamku.live:8888/live/Premium/Premium2020/483.ts
 http://streamku.live:8888/live/Premium/Premium2020/482.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTSJNQJ_vTiDRPRxrV0heKYOcfzy5mMG2bmtJZjE1c1CZIxy9lJ" group-title="KNOWLEDGE",National Geographic
-http://streamku.live:8888/live/Premium/Premium2020/880.ts
+http://203.153.218.28:9981/stream/channelid/681683355?ticket=B3C34399E8376048D3433529578519E51673EA32&profile=pass
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSHOB5zHoRFPkgNLCKGfakhcNeS3Z2pgWULAfR14HQxDYTWyKH2" group-title="KNOWLEDGE",Nat Geo People
 http://streamku.live:8888/live/Premium/Premium2020/489.ts
@@ -156,7 +156,7 @@ http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/474.ts
 http://streamku.live:8888/live/Premium/Premium2020/568.ts
 
 #EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/nickelodeon-schweiz-logo-png-14.png" group-title="KIDS",Nickelodeon
-http://streamku.live:8888/live/Premium/Premium2020/567.ts
+http://203.153.218.28:9981/stream/channelid/648970596?ticket=0DB19E0638CE26116D1EAB88EABDF8BB02DA784A&profile=pass
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nick-jr-logo-DC18CDB75D-seeklogo.com.png" group-title="KIDS",Nick JR
 http://streamku.live:8888/live/Premium/Premium2020/573.ts
