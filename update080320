@@ -94,7 +94,7 @@ http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
 http://streamku.live:8888/live/Premium/Premium2020/484.ts
 
 #EXTINF:-1 tvg-logo="https://www.broadcastingcable.com/.image/t_share/MTU0MjAzNjUwMTgwNTIzMzc0/discovery-channeljpg.jpg" group-title="KNOWLEDGE",Discovery Channel
-http://streamku.live:8888/live/Premium/Premium2020/759.ts
+http://203.153.218.28:9981/stream/channelid/1151931232?ticket=D05F5F5AB713CBADFBFABB642E4F37D5004BB751&profile=pass
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png" group-title="KNOWLEDGE",Discovery Turbo
 http://streamku.live:8888/live/Premium/Premium2020/760.ts
