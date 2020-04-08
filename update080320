@@ -22,7 +22,7 @@ http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u
 https://livetvhooq.akamaized.net/659beb5e22754dcb90ffd25247be6627/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1581398265~exp=9007200836139256~acl=/659beb5e22754dcb90ffd25247be6627/*/profile_0/chunklist.m3u8*~hmac=ba4dc3d3e1d30aed37f0d933ffde5e82f41740f75c4bb04de847bd9edde5802f&hdnts=st=1581398269~exp=1581398389~acl=/*~id=d741463f-2bf7-4ac9-9ece-0f58e57637dd~data=36.68.52.70~hmac=cfa8468626806030000750362272cf7d9247b0020a7028624b69491e84c83819
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/2/20/TvOne_logo_2012.svg/89px-TvOne_logo_2012.svg.png" group-title="NASIONAL",TV ONE
-http://streamku.live:8888/live/Premium/Premium2020/613.ts
+https://stream-06.ix7.dailymotion.com/sec(045Msia06uu92p_oLsoybA-SytHdl7ssOngP7bw80Lk)/dm/3/x619221/s/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/320px-GTV_%282017%29.svg.png" group-title="NASIONAL",Global TV
 http://id6.indostreamingtv.com/live/tv1/index.m3u8
