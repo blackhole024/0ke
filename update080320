@@ -1,7 +1,7 @@
 ########### NASIONAL ########### 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/309px-Indosiar_2015.svg.png" group-title="NASIONAL",Indosiar
-https://delivery.macan.live/stream/id_indosiar/index.m3u8?token=cB5tzkQl&v=20200308
+https://delivery.macan.live/stream/id_indosiar/index.m3u8?token=P4g4PpoO&v=20200308
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/74/RCTI.png" group-title="NASIONAL",RCTI
 https://livetvhooq.akamaized.net/d182c52b34984076be9817e526e2bb5e/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1583650912~exp=9007200838391903~acl=/d182c52b34984076be9817e526e2bb5e/*/profile_0/chunklist.m3u8*~hmac=fa1d9eaec484621276c2c756844271a106534de67de97b2708c8961d15d58085&hdnts=st=1583650913~exp=1583651033~acl=/*~id=7e93426c-d325-489a-9e9b-37bbdbfac0ed~data=114.4.220.98~hmac=2af2e1eb22424e0316a8b755c4fb95011aea0061b425787cef77b0559fb03b26
@@ -16,7 +16,7 @@ https://livetvhooq.akamaized.net/3127bcd58c9149b298b664b1ec828285/ap-southeast-1
 https://delivery.macan.live/stream/id_antv/index.m3u8?token=P4g4PpoO&v=20200308
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQM8j45LnOWFpCg5rZ5atJh9SNsCwBslc9-rhDsOwcnS2d_AzKl" group-title="NASIONAL",TVRI
-https://delivery.macan.live/stream/id_tvri/index.m3u8?token=cB5tzkQl&v=20200308
+https://delivery.macan.live/stream/id_tvri/index.m3u8?token=P4g4PpoO&v=20200308
 
 #EXTINF:-1 tvg-logo="https://macan.live/img/trans7.png" group-title="NASIONAL",Trans 7
 https://livetvhooq.akamaized.net/659beb5e22754dcb90ffd25247be6627/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1581398265~exp=9007200836139256~acl=/659beb5e22754dcb90ffd25247be6627/*/profile_0/chunklist.m3u8*~hmac=ba4dc3d3e1d30aed37f0d933ffde5e82f41740f75c4bb04de847bd9edde5802f&hdnts=st=1581398269~exp=1581398389~acl=/*~id=d741463f-2bf7-4ac9-9ece-0f58e57637dd~data=36.68.52.70~hmac=cfa8468626806030000750362272cf7d9247b0020a7028624b69491e84c83819
@@ -25,10 +25,10 @@ https://livetvhooq.akamaized.net/659beb5e22754dcb90ffd25247be6627/ap-southeast-1
 https://stream-06.ix7.dailymotion.com/sec(045Msia06uu92p_oLsoybA-SytHdl7ssOngP7bw80Lk)/dm/3/x619221/s/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/320px-GTV_%282017%29.svg.png" group-title="NASIONAL",GTV
-https://delivery.macan.live/stream/id_gtv/index.m3u8?token=cB5tzkQl&v=20200308
+https://delivery.macan.live/stream/id_gtv/index.m3u8?token=P4g4PpoO&v=20200308
 
 #EXTINF:-1tvg-logo="https://macan.live/img/transtv.png" group-title="NASIONAL",Trans TV
-https://delivery.macan.live/stream/id_transtv/index.m3u8?token=cB5tzkQl&v=20200308
+https://delivery.macan.live/stream/id_transtv/index.m3u8?token=P4g4PpoO&v=20200308
 
 #EXTINF:-1 tvg-logo="https://i2.wp.com/www.lokernas.id/wp-content/uploads/2019/07/645x430-seni-cnn-indonesia-menggelinding-di-layar-kaca-1506136-58cc17797eafbd42350a7648.jpg?w=640&ssl=1" group-title="NASIONAL",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
@@ -37,25 +37,25 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 http://edge.metroTVnews.com:1935/live-edge/smil:metro.smil/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d4/Kompas_TV.svg/1280px-Kompas_TV.svg.png" group-title="NASIONAL",Kompas TV
-https://delivery.macan.live/stream/id_kompastv/index.m3u8?token=cB5tzkQl&v=20200308
+https://delivery.macan.live/stream/id_kompastv/index.m3u8?token=P4g4PpoO&v=20200308
  
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5a/Rajawali_Televisi.svg/1280px-Rajawali_Televisi.svg.png" group-title="NASIONAL",Rajawali TV
-https://delivery.macan.live/stream/id_rajawalitv/index.m3u8?token=cB5tzkQl&v=20200308
+https://delivery.macan.live/stream/id_rajawalitv/index.m3u8?token=P4g4PpoO&v=20200308
 
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/logo-net-tv-png-4.png" group-title="NASIONAL",NET TV
-https://delivery.macan.live/stream/id_nettv/index.m3u8?token=cB5tzkQl&v=20200308
+https://delivery.macan.live/stream/id_nettv/index.m3u8?token=P4g4PpoO&v=20200308
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/INews.png" group-title="NASIONAL",INews
-https://delivery.macan.live/stream/id_inews/index.m3u8?token=cB5tzkQl&v=20200308
+https://delivery.macan.live/stream/id_inews/index.m3u8?token=P4g4PpoO&v=20200308
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" group-title="NASIONAL",CNBC Indonesia
-https://delivery.macan.live/stream/id_cnbc/index.m3u8?token=cB5tzkQl&v=20200308
+https://delivery.macan.live/stream/id_cnbc/index.m3u8?token=P4g4PpoO&v=20200308
 
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/uploads/LOGO%20berita%20satu.png?1383203151" group-title="NASIONAL",Berita Satu World
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/chunklist_b846000.m3u8?token=ireg.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Logo_BeritaSatu_Media.png/800px-Logo_BeritaSatu_Media.png" group-title="NASIONAL",Berita Satu
-https://delivery.macan.live/stream/id_beritasatu/index.m3u8?token=cB5tzkQl&v=20200308
+https://delivery.macan.live/stream/id_beritasatu/index.m3u8?token=P4g4PpoO&v=20200308
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/5MxeTn3URfw/hqdefault.jpg" group-title="NASIONAL",IDX Channel
 https://delivery.macan.live/stream/idx/index.m3u8?token=P4g4PpoO&v=20200308
@@ -79,7 +79,7 @@ https://livetvhooq.akamaized.net:443/b2fec42490a14386ac53eafa47f590a7/ap-southea
 http://streamku.live:8888/live/Premium/Premium2020/965.ts
 
 #EXTINF:-1 tvg-logo="https://macan.live/img/jtv.png" group-title="NASIONAL",JTV
-https://delivery.macan.live/stream/id_jtv/index.m3u8?token=cB5tzkQl&v=20200308
+https://delivery.macan.live/stream/id_jtv/index.m3u8?token=P4g4PpoO&v=20200308
 
 #EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/channel-jowo.png" group-title="NASIONAL", Jowo Channel
 https://delivery.macan.live/stream/jowo/index.m3u8?token=P4g4PpoO&v=20200308
@@ -94,7 +94,7 @@ http://streamku.live:8888/live/Premium/Premium2020/962.ts
 http://streamku.live:8888/live/Premium/Premium2020/958.ts
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b4/Logo_Jak_tv_%282005-2009%29.png/revision/latest/scale-to-width-down/340?cb=20131229082946" group-title="NASIONAL",Jak TV
-https://delivery.macan.live/stream/id_jaktv/index.m3u8?token=cB5tzkQl&v=20200308
+https://delivery.macan.live/stream/id_jaktv/index.m3u8?token=P4g4PpoO&v=20200308
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/3b/Logo_Jawapos_TV.png" group-title="NASIONAL",Jawa Pos TV
 http://streamku.live:8888/live/Premium/Premium2020/617.ts
@@ -293,7 +293,7 @@ https://delivery.macan.live/stream/ccm/index.m3u8?token=P4g4PpoO&v=20200308
 https://delivery.macan.live/stream/scmlegend/index.m3u8?token=P4g4PpoO&v=20200308
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/800px-FX_International_logo.svg.png" group-title="MOVIES",FX
-https://delivery.macan.live/stream/id_fx/index.m3u8?token=cB5tzkQl&v=20200308
+https://delivery.macan.live/stream/id_fx/index.m3u8?token=P4g4PpoO&v=20200308
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/573025578837671936/0SP5Blcm_400x400.jpeg" group-title="MOVIES",KIX
 https://delivery.macan.live/stream/kix/index.m3u8?token=P4g4PpoO&v=20200308
@@ -386,10 +386,10 @@ http://streamku.live:8888/live/Premium/Premium2020/495.ts
 http://streamku.live:8888/live/Premium/Premium2020/930.ts
 
 #EXTINF:-1 tvg-logo="https://macan.live/img/salam_tv.png" group-title="RELIGI", Salam TV
-https://delivery.macan.live/stream/salam_tv/index.m3u8?token=cB5tzkQl&v=20200308
+https://delivery.macan.live/stream/salam_tv/index.m3u8?token=P4g4PpoO&v=20200308
 
 #EXTINF:-1 tvg-logo="https://macan.live/img/daaitv.png" group-title="RELIGI", DAAI TV
-https://delivery.macan.live/stream/id_daai/index.m3u8?token=cB5tzkQl&v=20200308
+https://delivery.macan.live/stream/id_daai/index.m3u8?token=P4g4PpoO&v=20200308
 
 #EXTINF:-1 tvg-logo="https://www.hidayatullah.com/files/bfi_thumb/logo-TVMU-copy-2xoca7ornl3j2e2w9pj5kw.jpg" group-title="RELIGI",TV MU
 https://liveanevia.mncnow.id/live/eds/TVMuhammadiyah/sa_hls/TVMuhammadiyah.m3u8
